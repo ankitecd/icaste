@@ -1,0 +1,41 @@
+.fields{
+	width: 260px;
+	min-width: 160px;
+	padding: 10px 20px;
+	border: 1px solid #000000;
+	text-decoration: none;
+	display: inline-block;
+	font-size: 16px;
+	margin-bottom:10px;
+	border-radius: 4px; 
+    -moz-border-radius: 4px; 
+    -webkit-border-radius: 4px; 
+    box-shadow: 0px 0px 8px #d9d9d9; 
+    -moz-box-shadow: 0px 0px 8px #d9d9d9; 
+    -webkit-box-shadow: 0px 0px 8px #d9d9d9;
+	border: 1px solid #c4c4c4;  
+}
+#loginform{
+	padding:auto auto 0px auto;
+	}
+
+.fileds:focus { 
+    outline: none; 
+    border: 1px solid #7bc1f7; 
+    box-shadow: 0px 0px 8px #7bc1f7; 
+    -moz-box-shadow: 0px 0px 8px #7bc1f7; 
+    -webkit-box-shadow: 0px 0px 8px #7bc1f7; 
+} 
+.submit {
+	min-width: 260px;
+	padding: 10px 20px;
+	border: none;
+	color: white;
+	background: #3498db;
+	text-align: center;
+	text-decoration: none;
+	display: inline-block;
+	font-size: 16px;
+	cursor: pointer;
+	margin-bottom: 10px;
+}
